@@ -9,5 +9,5 @@ def hello_world():
 
 
 @app.route("/foo")
-def hello_world():
+def foo():
     return "foo on my bar!"
